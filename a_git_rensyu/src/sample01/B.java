@@ -10,7 +10,7 @@ public class B {
 
 		System.out.println("!89987");
 
-		double d = 0.698;
+		double d = 0.6982;
 		System.out.println(d);
 
 		System.out.println("BBBB");
