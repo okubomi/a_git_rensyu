@@ -5,6 +5,9 @@ public class Main {
 		// 練習コードです。
 		System.out.println("okubo. hello001.あいうえお！");
 		int n = 0;
+		
+		n++;
+		System.out.println("n = "+n);
 
 
 	}

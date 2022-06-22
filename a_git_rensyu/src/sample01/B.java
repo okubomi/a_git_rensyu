@@ -9,7 +9,8 @@ public class B {
 		// TODO 自動生成されたメソッド・スタブ
 
 		System.out.println("!89987");
-
+		
+		// 値を変更
 		double d = 0.6982;
 		System.out.println(d);
 
