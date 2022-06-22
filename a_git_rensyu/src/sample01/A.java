@@ -10,7 +10,13 @@ public class A {
 
 		System.out.println("AHHHH;)");
 		System.out.println("AHHHH;)１１１");
+
 		int count=0;
+
+
+		boolean isOre = true;
+		System.out.println(isOre);
+
 	}
 
 }
