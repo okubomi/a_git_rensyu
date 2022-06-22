@@ -10,6 +10,9 @@ public class A {
 
 		System.out.println("AHHHH;)");
 		System.out.println("AHHHH;)１１１");
+
+		boolean isOre = true;
+		System.out.println(isOre);
 	}
 
 }
