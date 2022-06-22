@@ -9,6 +9,7 @@ public class A {
 		System.out.println("AAA!");
 
 		System.out.println("AHHHH;)");
+		System.out.println("AHHHH;)１１１");
 	}
 
 }
