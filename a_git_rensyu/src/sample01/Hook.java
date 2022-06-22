@@ -8,6 +8,7 @@ public class Hook {
 		System.out.println(arg + "様");
 
 		int num = 29;
+		System.out.println(num);
 
 	}
 
