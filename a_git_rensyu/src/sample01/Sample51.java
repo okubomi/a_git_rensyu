@@ -10,7 +10,7 @@ public class Sample51 {
 		System.out.println(ans);
 
 
-		String name = "ウルトラマン";	
+		String name = "ウルトラマン";
 		System.out.println(name);
 
 	}
